@@ -4,6 +4,30 @@ https://public.tableau.com/profile/mindy6970#!/vizhome/CitiBikeAnalyticsasTablea
 ## Tableau
 <img width="451" alt="bikepic4" src="https://user-images.githubusercontent.com/41865917/51713341-9a752200-1fff-11e9-83af-b7244ea67c72.PNG">
 
+
+
+<img width="685" alt="trips1" src="https://user-images.githubusercontent.com/41865917/51781395-177ac700-20e6-11e9-9f86-09316657e24a.PNG">
+<img width="636" alt="peaksummer usertype" src="https://user-images.githubusercontent.com/41865917/51781396-177ac700-20e6-11e9-8915-d265dada9b31.PNG">
+<img width="682" alt="peoplestats" src="https://user-images.githubusercontent.com/41865917/51781399-18135d80-20e6-11e9-87ed-90c7ebc45990.PNG">
+<img width="672" alt="trips" src="https://user-images.githubusercontent.com/41865917/51781400-19448a80-20e6-11e9-85c6-b3161810e608.PNG">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Task
 
 **Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.  You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods. The following are some questions you may wish to tackle, especially if you are working with merged datasets. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
